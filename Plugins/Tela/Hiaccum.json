@@ -1,0 +1,488 @@
+{
+  "parameters" : [
+    {
+      "name" : "Patch Voice Count",
+      "value" : 6
+    },
+    {
+      "name" : "Patch Velocity Mode",
+      "value" : 1
+    },
+    {
+      "name" : "Patch Retrig",
+      "value" : 1
+    },
+    {
+      "name" : "Patch Attack",
+      "value" : 0
+    },
+    {
+      "name" : "Patch Pitch",
+      "value" : 0
+    },
+    {
+      "name" : "Patch Spread",
+      "value" : 3.7180855
+    },
+    {
+      "name" : "Patch Glide",
+      "value" : 0
+    },
+    {
+      "name" : "Patch Release",
+      "value" : 32.628162
+    },
+    {
+      "name" : "Patch Impulse\/Grain Balance",
+      "value" : 29.673424
+    },
+    {
+      "name" : "Patch Output Level",
+      "value" : 63.9
+    },
+    {
+      "name" : "Patch LFO Shape",
+      "value" : 63.66741
+    },
+    {
+      "name" : "Patch LFO Twist",
+      "value" : -21.484352
+    },
+    {
+      "name" : "Patch LFO Bend",
+      "value" : -7.6477356
+    },
+    {
+      "name" : "Patch LFO Rate",
+      "value" : 7.4254327
+    },
+    {
+      "name" : "Patch LFO Rhythm",
+      "value" : 63.35852
+    },
+    {
+      "name" : "Patch LFO Ratio",
+      "value" : 2.9469125
+    },
+    {
+      "name" : "Patch LFO Jitter",
+      "value" : 0
+    },
+    {
+      "name" : "Patch LFO Depth",
+      "value" : 0
+    },
+    {
+      "name" : "Patch LFO Destination",
+      "value" : 4
+    },
+    {
+      "name" : "Patch LFO Phase",
+      "value" : 0
+    },
+    {
+      "name" : "Patch LFO Sync",
+      "value" : 0
+    },
+    {
+      "name" : "Patch LFO Mode",
+      "value" : 0
+    },
+    {
+      "name" : "Patch LFO Velocity",
+      "value" : 0
+    },
+    {
+      "name" : "Impulse Shape",
+      "value" : 97.07586
+    },
+    {
+      "name" : "Impulse Blur",
+      "value" : 0
+    },
+    {
+      "name" : "Impulse Tone",
+      "value" : 13.720547
+    },
+    {
+      "name" : "Impulse Repeat",
+      "value" : 21.240652
+    },
+    {
+      "name" : "Impulse Speed",
+      "value" : 35.25447
+    },
+    {
+      "name" : "Impulse Curve",
+      "value" : 2.2608757
+    },
+    {
+      "name" : "Impulse Sync",
+      "value" : 1
+    },
+    {
+      "name" : "Impulse Gate",
+      "value" : 1
+    },
+    {
+      "name" : "Impulse Repeat Tone",
+      "value" : 1
+    },
+    {
+      "name" : "Impulse LFO Shape",
+      "value" : 16.09977
+    },
+    {
+      "name" : "Impulse LFO Twist",
+      "value" : 7.232483
+    },
+    {
+      "name" : "Impulse LFO Bend",
+      "value" : 32.757416
+    },
+    {
+      "name" : "Impulse LFO Rate",
+      "value" : 4.5640206
+    },
+    {
+      "name" : "Impulse LFO Rhythm",
+      "value" : 29.268295
+    },
+    {
+      "name" : "Impulse LFO Ratio",
+      "value" : 0.033342328
+    },
+    {
+      "name" : "Impulse LFO Jitter",
+      "value" : 0
+    },
+    {
+      "name" : "Impulse LFO Depth",
+      "value" : 0
+    },
+    {
+      "name" : "Impulse LFO Destination",
+      "value" : 3
+    },
+    {
+      "name" : "Impulse LFO Phase",
+      "value" : 14.958176
+    },
+    {
+      "name" : "Impulse LFO Sync",
+      "value" : 0
+    },
+    {
+      "name" : "Impulse LFO Mode",
+      "value" : 0
+    },
+    {
+      "name" : "Impulse LFO Velocity",
+      "value" : 0
+    },
+    {
+      "name" : "Grain Density",
+      "value" : 80.067085
+    },
+    {
+      "name" : "Grain Shape",
+      "value" : 0
+    },
+    {
+      "name" : "Grain Tone",
+      "value" : 47.188858
+    },
+    {
+      "name" : "Grain Attack",
+      "value" : 38.85701
+    },
+    {
+      "name" : "Grain Hold",
+      "value" : 100
+    },
+    {
+      "name" : "Grain Release",
+      "value" : 42.382423
+    },
+    {
+      "name" : "Grain LFO Shape",
+      "value" : 87.311295
+    },
+    {
+      "name" : "Grain LFO Twist",
+      "value" : -2.6750755
+    },
+    {
+      "name" : "Grain LFO Bend",
+      "value" : -46.43305
+    },
+    {
+      "name" : "Grain LFO Rate",
+      "value" : 2.616211
+    },
+    {
+      "name" : "Grain LFO Rhythm",
+      "value" : 36.816345
+    },
+    {
+      "name" : "Grain LFO Ratio",
+      "value" : 3.0428808
+    },
+    {
+      "name" : "Grain LFO Jitter",
+      "value" : 0
+    },
+    {
+      "name" : "Grain LFO Depth",
+      "value" : 0
+    },
+    {
+      "name" : "Grain LFO Destination",
+      "value" : 4
+    },
+    {
+      "name" : "Grain LFO Phase",
+      "value" : 0
+    },
+    {
+      "name" : "Grain LFO Sync",
+      "value" : 0
+    },
+    {
+      "name" : "Grain LFO Mode",
+      "value" : 0
+    },
+    {
+      "name" : "Grain LFO Velocity",
+      "value" : 0
+    },
+    {
+      "name" : "Tonality Gap",
+      "value" : 66.20742
+    },
+    {
+      "name" : "Tonality Bend",
+      "value" : -47.820927
+    },
+    {
+      "name" : "Tonality Warp",
+      "value" : -18.891972
+    },
+    {
+      "name" : "Tonality Tune",
+      "value" : 3.5217047
+    },
+    {
+      "name" : "Tonality Offset",
+      "value" : -29.305632
+    },
+    {
+      "name" : "Tonality Damp",
+      "value" : 83.369675
+    },
+    {
+      "name" : "Tonality LFO Shape",
+      "value" : 32.53048
+    },
+    {
+      "name" : "Tonality LFO Twist",
+      "value" : 46.159103
+    },
+    {
+      "name" : "Tonality LFO Bend",
+      "value" : 24.368355
+    },
+    {
+      "name" : "Tonality LFO Rate",
+      "value" : 4.36818
+    },
+    {
+      "name" : "Tonality LFO Rhythm",
+      "value" : 34.39982
+    },
+    {
+      "name" : "Tonality LFO Ratio",
+      "value" : 0.11967802
+    },
+    {
+      "name" : "Tonality LFO Jitter",
+      "value" : 0
+    },
+    {
+      "name" : "Tonality LFO Depth",
+      "value" : 1.5667164
+    },
+    {
+      "name" : "Tonality LFO Destination",
+      "value" : 2
+    },
+    {
+      "name" : "Tonality LFO Phase",
+      "value" : 0
+    },
+    {
+      "name" : "Tonality LFO Sync",
+      "value" : 0
+    },
+    {
+      "name" : "Tonality LFO Mode",
+      "value" : 0
+    },
+    {
+      "name" : "Tonality LFO Velocity",
+      "value" : 0
+    },
+    {
+      "name" : "Contour Cut",
+      "value" : 0
+    },
+    {
+      "name" : "Contour Tilt",
+      "value" : 0
+    },
+    {
+      "name" : "Contour Mix",
+      "value" : 0
+    },
+    {
+      "name" : "Contour Sine",
+      "value" : 52.718483
+    },
+    {
+      "name" : "Contour Depth",
+      "value" : 0
+    },
+    {
+      "name" : "Contour Phase",
+      "value" : 15.182617
+    },
+    {
+      "name" : "Contour LFO Shape",
+      "value" : 69.9773
+    },
+    {
+      "name" : "Contour LFO Twist",
+      "value" : 12.161499
+    },
+    {
+      "name" : "Contour LFO Bend",
+      "value" : 49.15609
+    },
+    {
+      "name" : "Contour LFO Rate",
+      "value" : 66.09069
+    },
+    {
+      "name" : "Contour LFO Rhythm",
+      "value" : 94.59051
+    },
+    {
+      "name" : "Contour LFO Ratio",
+      "value" : 0.110790476
+    },
+    {
+      "name" : "Contour LFO Jitter",
+      "value" : 0
+    },
+    {
+      "name" : "Contour LFO Depth",
+      "value" : 69.62937
+    },
+    {
+      "name" : "Contour LFO Destination",
+      "value" : 1
+    },
+    {
+      "name" : "Contour LFO Phase",
+      "value" : 0
+    },
+    {
+      "name" : "Contour LFO Sync",
+      "value" : 0
+    },
+    {
+      "name" : "Contour LFO Mode",
+      "value" : 2
+    },
+    {
+      "name" : "Contour LFO Velocity",
+      "value" : 1
+    },
+    {
+      "name" : "Space Mix",
+      "value" : 0
+    },
+    {
+      "name" : "Space Size",
+      "value" : 68.83334
+    },
+    {
+      "name" : "Space Decay",
+      "value" : 64.455765
+    },
+    {
+      "name" : "Space Focus",
+      "value" : 0
+    },
+    {
+      "name" : "Space Chorus",
+      "value" : 80.02482
+    },
+    {
+      "name" : "Space Tone",
+      "value" : 0
+    },
+    {
+      "name" : "Space LFO Shape",
+      "value" : 68.69008
+    },
+    {
+      "name" : "Space LFO Twist",
+      "value" : 20.016983
+    },
+    {
+      "name" : "Space LFO Bend",
+      "value" : -39.63021
+    },
+    {
+      "name" : "Space LFO Rate",
+      "value" : 15.091517
+    },
+    {
+      "name" : "Space LFO Rhythm",
+      "value" : 36.59091
+    },
+    {
+      "name" : "Space LFO Ratio",
+      "value" : 1.6027408
+    },
+    {
+      "name" : "Space LFO Jitter",
+      "value" : 0
+    },
+    {
+      "name" : "Space LFO Depth",
+      "value" : 0
+    },
+    {
+      "name" : "Space LFO Destination",
+      "value" : 4
+    },
+    {
+      "name" : "Space LFO Phase",
+      "value" : 0
+    },
+    {
+      "name" : "Space LFO Sync",
+      "value" : 0
+    },
+    {
+      "name" : "Space LFO Mode",
+      "value" : 0
+    },
+    {
+      "name" : "Space LFO Velocity",
+      "value" : 1
+    }
+  ]
+}
